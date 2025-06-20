@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/thepavan23/count.svg" alt="Visitor's Count" />
+</div>
 
 <!--
 **thepavan23/thepavan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

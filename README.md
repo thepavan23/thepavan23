@@ -1,7 +1,67 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/thepavan23/count.svg" alt="Visitor's Count" />
-</div>
+<h1 align="center">Hi 👋, I'm Pavan Gannabathula</h1>
+<h3 align="center">🚀 Tech Enthusiast | Specializing in Full-Stack Development | Skilled in React.js, Node.js, AWS</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thepavan23&label=Profile%20views&color=0e75b6&style=flat" alt="thepavan23" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Hi, I'm Pavan Kumar Gannabathula, a tech-driven B.Tech IT student at SRKR Engineering College, passionate about building scalable, secure solutions in the evolving world of software development.
+- 🎓 B.Tech in Information Technology  
+- 💼 Preparing for campus placements & hackathons
+- 💻 Skilled in **Java**, **Python**  
+- 🌱 Currently learning **Full-Stack Web Development**
+- 🔭 Building projects with **React.js**, **Node.js**, **MongoDB**, **Docker**, and **AWS S3**
+- 🚀 Built a **Full-Stack File Storage & Sharing Web App** with:
+  - Real-time notifications 🔔
+  - AWS S3 integration 📂
+  - Secure access + user-friendly UI 🔐
+- 🧑‍💻 Exploring system design, DSA, and open source  
+- 📫 Reach me at: **pavangannabatthula23@gmail.com**
+
+---
+
+### 🔧 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,py,git,aws,vscode,linux" />
+</p>
+
+---
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thepavan23&show_icons=true&theme=tokyonight" alt="thepavan23" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepavan23&theme=tokyonight" alt="thepavan23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepavan23&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thepavan23&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/pavan-kumar-gannabathula" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:pavangannabatthula23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+
+---
+
 
 <!--
 **thepavan23/thepavan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

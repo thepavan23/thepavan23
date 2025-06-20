@@ -12,7 +12,7 @@
 - 🎓 B.Tech in Information Technology
 - 💻 Skilled in **Java**, **Python**  
 - 🌱 Currently learning **Full-Stack Web Development**
-- 🔭 Building projects with **React.js**, **Node.js**, **MongoDB**, and **AWS S3**
+- 🔭 Building projects with **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **AWS S3**
 - 🚀 Built a **Full-Stack File Storage & Sharing Web App** with:
   - AWS S3 integration 📂
   - Secure access + user-friendly UI 🔐
@@ -24,25 +24,15 @@
 ### 🔧 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,py,git,aws,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb,java,py,git,aws,vscode,linux" />
 </p>
 
 ---
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepavan23&show_icons=true&theme=tokyonight" alt="thepavan23" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepavan23&theme=tokyonight" alt="thepavan23" />
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepavan23&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thepavan23&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pavan Gannabathula</h1>
-<h3 align="center">🚀 Tech Enthusiast | Specializing in Full-Stack Development | Skilled in React.js, Node.js, AWS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thepavan23&label=Profile%20views&color=0e75b6&style=flat" alt="thepavan23" />
@@ -8,15 +7,11 @@
 ---
 
 ### 👨‍💻 About Me
-
-Hi, I'm Pavan Kumar Gannabathula, a tech-driven B.Tech IT student at SRKR Engineering College, passionate about building scalable, secure solutions in the evolving world of software development.
-- 🎓 B.Tech in Information Technology  
-- 💼 Preparing for campus placements & hackathons
+- 🎓 B.Tech in Information Technology
 - 💻 Skilled in **Java**, **Python**  
 - 🌱 Currently learning **Full-Stack Web Development**
-- 🔭 Building projects with **React.js**, **Node.js**, **MongoDB**, **Docker**, and **AWS S3**
+- 🔭 Building projects with **React.js**, **Node.js**, **MongoDB**, and **AWS S3**
 - 🚀 Built a **Full-Stack File Storage & Sharing Web App** with:
-  - Real-time notifications 🔔
   - AWS S3 integration 📂
   - Secure access + user-friendly UI 🔐
 - 🧑‍💻 Exploring system design, DSA, and open source  

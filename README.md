@@ -3,7 +3,6 @@
 </h1>
 
 <p>A tech-driven B.Tech IT student at <strong>SRKR Engineering College</strong>, passionate about building scalable, secure solutions in the evolving world of software development.</p>
----
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech in Information Technology

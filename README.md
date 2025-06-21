@@ -2,10 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Pavan+Kumar!;" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thepavan23&label=Profile%20views&color=0e75b6&style=flat" alt="thepavan23" />
-</p>
-
+<p>A tech-driven B.Tech IT student at <strong>SRKR Engineering College</strong>, passionate about building scalable, secure solutions in the evolving world of software development.</p>
 ---
 
 ### 👨‍💻 About Me
@@ -20,11 +17,20 @@
 - 📫 Reach me at: **pavangannabatthula23@gmail.com**
 
 ---
-
+### 🏅 Certifications
+- [Angular Web Developer Certification](https://github.com/thepavan23/certifications/blob/main/Infosy%20Springboard%20Angular%20web%20developer%20certification.pdf) - Infosys Springboard
+- [Young Python Professional](https://github.com/thepavan23/certifications/blob/main/Infosys%20Springboard%20python%20certificate%20Pavan%20(1).pdf) - Infosys Springboard
+- [DevOps workshop and Hackathon Participation Certificate](https://github.com/thepavan23/certifications/blob/main/Workshop%20%26%20Hackathon%20Certificates.pdf) - SRKR CSI
+- [Web Development Certificate](https://github.com/thepavan23/certifications/blob/main/IT-STP-24-020%20certificate.pdf) - SRKREC
+- [Introduction to Cyber Security](https://github.com/thepavan23/certifications/blob/main/PAVAN%20KUMARGANNABATHULA-SKL_2023_SRKR_IC-certificate%20(1).pdf) - CISCO NETWORKING ACADEMY
+- [Foundation of Cloud IoT](https://github.com/thepavan23/certifications/blob/main/Foundation%20of%20Cloud%20IoT%20Edge%20ML%20NPTEL%20certificate.pdf) - NPTEL
+- [Data Science for Engineers](https://github.com/thepavan23/certifications/blob/main/Nptel%20Data%20Science%20for%20Engineers%20certificate.pdf) - NPTEL
+- [Programming in Java](https://github.com/thepavan23/certifications/blob/main/Nptel%20certificate%20Programming%20In%20Java.pdf) - NPTEL
+---
 ### 🔧 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb,java,py,git,aws,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb,java,py,git,aws,vscode,linux,postman" />
 </p>
 
 ---

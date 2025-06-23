@@ -21,7 +21,7 @@
 - [Young Python Professional](https://github.com/thepavan23/certifications/blob/main/Infosys%20Springboard%20python%20certificate%20Pavan%20(1).pdf) - Infosys Springboard
 - [DevOps workshop and Hackathon Participation Certificate](https://github.com/thepavan23/certifications/blob/main/Workshop%20%26%20Hackathon%20Certificates.pdf) - SRKR CSI
 - [Web Development Certificate](https://github.com/thepavan23/certifications/blob/main/IT-STP-24-020%20certificate.pdf) - SRKREC
-- [Introduction to Cyber Security](https://github.com/thepavan23/certifications/blob/main/PAVAN%20KUMARGANNABATHULA-SKL_2023_SRKR_IC-certificate%20(1).pdf) - CISCO NETWORKING ACADEMY
+- [Introduction to Cyber Security](https://github.com/thepavan23/certifications/blob/main/Introduction%20to%20Cyber%20Security%20(2).pdf) - CISCO NETWORKING ACADEMY
 - [Foundation of Cloud IoT](https://github.com/thepavan23/certifications/blob/main/Foundation%20of%20Cloud%20IoT%20Edge%20ML%20NPTEL%20certificate.pdf) - NPTEL
 - [Data Science for Engineers](https://github.com/thepavan23/certifications/blob/main/Nptel%20Data%20Science%20for%20Engineers%20certificate.pdf) - NPTEL
 - [Programming in Java](https://github.com/thepavan23/certifications/blob/main/Nptel%20certificate%20Programming%20In%20Java.pdf) - NPTEL
